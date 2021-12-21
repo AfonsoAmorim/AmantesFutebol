@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8l5Rca9_QuP2NHq1hJcYanHrVP6hTH1HkI6yEqnvq68RsHWz4XVzuI5eYrDX5iZbfDEY&usqp=CAU)
+}
+
+img{
+    text-align: center;
+    padding: 20px;
+    background-color: orange;
+    background-size: cover;
+    background-position: center center;
+}
+
+#ttt{
+    text-align: center;
+    padding: 1px;
+    background-color: black;
+    width: 500px;
+    color: white;
+}
+
+
+a{
+
+    text-decoration: none;
+    background: orange;
+    color: black;
+    text-align: center;
+    padding: 70px;
+    padding-bottom: 55px;
+    border-radius: 100px;
+}
+

@@ -1,0 +1,64 @@
+.photo1{
+    background-image: url(https://img.estadao.com.br/fotos/crop/1200x900/resources/jpg/9/1/1523368696019.jpg) no-repeat 0 0;
+    text-align: center;
+    
+    
+
+}
+.photo2{
+    background-image: url(https://eu-images.contentstack.com/v3/assets/bltcc7a7ffd2fbf71f5/blt003af11cfa0c0fb4/60ddbb80467112384c8272d7/1328c8dc905c021604cc8fe96633717ca8402d34.jpg?auto=webp&fit=crop&format=jpg&height=800&quality=60&width=1200) no-repeat 0 0;
+
+}
+
+
+body{
+    background: rgb(165, 165, 231);
+}
+
+h1{
+    text-align: center;
+    padding: 1px;
+    background-color: orange;
+    width: auto;
+    color: white;
+}
+h2{
+    text-align: center;
+    padding: 1px;
+    background-color: orange;
+    width: auto;
+    color: white;
+}
+
+.youtube{
+    display: flex;
+    align-items: center;
+
+}
+
+p{
+    font-weight: bold;
+    color: black;
+    font-size: large;
+}
+
+table{
+    
+    text-decoration: none;
+    background: chartreuse;
+    text-align: center;
+    padding: 100px;
+    padding-bottom: 120px;
+    border-radius: 10px;
+
+    
+}
+
+#twoyou{
+    
+    text-align: center;
+    padding: 1px;
+    background-color: red;
+    width: auto;
+    margin: 0pt;
+}
